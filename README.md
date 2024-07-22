@@ -85,3 +85,15 @@ tab - меню
 Тригер секретной комнаты:
 
 ![image](https://github.com/user-attachments/assets/f801205d-6412-4072-957d-41c20971d25b)
+
+# Игровой интерфейс
+
+![image](https://github.com/user-attachments/assets/997218bb-7f13-4edd-bca8-ddb1519fb546)
+
+Меню
+
+![image](https://github.com/user-attachments/assets/2e5384b4-169f-415b-9a16-0716ff70f1d0)
+
+![image](https://github.com/user-attachments/assets/839917f4-66e4-424b-8423-be6f8703cdb5)
+
+![image](https://github.com/user-attachments/assets/3d9d9d1f-51b6-4bd6-8b73-8587e824ea27)
