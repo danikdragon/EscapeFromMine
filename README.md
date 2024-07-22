@@ -70,6 +70,10 @@ tab - меню
 
 ![image](https://github.com/user-attachments/assets/a0887b15-96df-4f49-a3d7-5dab5aaa8d56)
 
+Стрелы:
+
+![image](https://github.com/user-attachments/assets/c45a3f26-bd2e-4e01-831f-ba9ae583ed38)
+
 Улучшение:
 
 ![image](https://github.com/user-attachments/assets/d3969b26-0627-4912-81ee-85f3dc3e0c23)
