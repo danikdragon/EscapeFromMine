@@ -1,18 +1,20 @@
-#pragma once
-#include "CoreMinimal.h"
-#include "Components/ActorComponent.h"
-#include "CreateLevel.generated.h"
-#include "string"
+// Fill out your copyright notice in the Description page of Project Settings.
 
-using namespace std;
+#pragma once
+
+#include "CoreMinimal.h"
+#include "Components/SceneComponent.h"
+#include "LevelChank.generated.h"
+
+
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
-class TESTSUBJECT_API UCreateLevel : public UActorComponent
+class TESTSUBJECT_API ULevelChank : public USceneComponent
 {
-	//GENERATED_BODY()
+	GENERATED_BODY()
 
 public:	
 	// Sets default values for this component's properties
-	UCreateLevel();
+	ULevelChank();
 
 protected:
 	// Called when the game starts
@@ -22,8 +24,5 @@ public:
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
-public:
-	//int sizeYX[2] = [10, 10];
-	//int chunks[sizeXY[0]] = [];
-	string kek = "lol";
+		
 };
